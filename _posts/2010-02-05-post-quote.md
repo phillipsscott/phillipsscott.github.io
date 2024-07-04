@@ -1,12 +1,12 @@
 ---
-title: "Post: Quote"
+title: "Post: most of my kids suck at life"
 categories:
-  - Blog
+  - rants
 tags:
-  - Post Formats
-  - quote
+  - oooooooold prick
+  - wisdom
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> Get dressed every day like youre going to DIE in those clothes
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite>Tracy Jordan</a></cite>
