@@ -16,10 +16,10 @@
 title: My super sweet blog
 email: phillipsscottmia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  prpbably the best thing since fire
-twitter_username: username
+  probably the best thing since fire
+twitter_username: saladOneTouch
 github_username: phillipsscott
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -63,15 +63,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "Janky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://youtube.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "Dont"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://fox.com/"
 
 footer:
   links:
