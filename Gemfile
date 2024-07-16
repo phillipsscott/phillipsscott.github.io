@@ -16,5 +16,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "webrick"
   gem 'faraday-retry'
+  gem 'jekyll-archives'
 
 end

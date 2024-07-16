@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   probably the best thing since fire
 twitter_username: saladOneTouch
 github_username: phillipsscott
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 author:
   name   : "Scott Phillips"
@@ -111,3 +112,25 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  analytics:
+  provider: "google"
+  google:
+    tracking_id: "your-ga-tracking-id"
+    anonymize_ip: true
